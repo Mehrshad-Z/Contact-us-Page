@@ -7,7 +7,7 @@
 body{
     font-family: "Poppins" ;
     background-color: rgb(255, 231, 208);
-    height: 100vh;
+    min-height: 100vh;
     padding: 3%;
     display: flex;
     align-items: center;
